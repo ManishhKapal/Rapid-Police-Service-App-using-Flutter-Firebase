@@ -11,7 +11,7 @@ This mobile application provides a fast and efficient way to connect with police
 
 ### Prerequisites
 
-* Flutter development environment set up (including Flutter SDK and Dart).
+* Flutter Development environment set up (including Flutter SDK and Dart).
 * A Firebase project with the following services enabled:
     * Firebase Realtime Database (for live location sharing)
 * Permissions for location access on the Android device.
