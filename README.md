@@ -1,6 +1,6 @@
 ## Rapid Police Service App (Flutter & Firebase)
 
-70% of the Application is completed will complete it with future updates.
+70% of the application is completed will complete it with future updates.
 This mobile application provides a fast and efficient way to connect with police services during emergencies. Built with Flutter and Firebase, it offers real-time location sharing for a swift police response.
 
 ### Features
